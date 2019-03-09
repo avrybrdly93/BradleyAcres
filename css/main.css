@@ -1,0 +1,20 @@
+#bg-image {
+    width: 100%;
+}
+
+#about-us-content {
+    width: 968px;
+    margin:auto;
+}
+
+.shop-listing {
+    width: 968px;
+    margin:auto;
+}
+
+#product-title {
+    padding: 48px;
+    width: 968px;
+    margin:auto;
+    text-align:center;
+}
